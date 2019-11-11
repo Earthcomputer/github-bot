@@ -1,6 +1,6 @@
 # github-bot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that Saving Earth time since 2019
+> A GitHub App built with [Probot](https://github.com/probot/probot) that has been saving Earth time since 2019
 
 ## Setup
 
@@ -14,7 +14,7 @@ npm start
 
 ## Contributing
 
-If you have suggestions for how github-bot could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
+If you have suggestions for how github-bot could be improved, or want to report a bug, open an issue! I'd love all and any contributions.
 
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
